@@ -15,6 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My own mistakes that I should have done at that time](https://dev.to/keiwitha/my-own-mistakes-that-i-should-have-done-at-that-time-55oi)
+- [How to improve your Database performance](https://dev.to/keiwitha/how-to-improve-your-database-performance-a9m)
+- [良い感じにwindowsでfigが使いたかっただけ](https://qiita.com/Inp/items/2a1bbe3b4887696170e2)
+- [yupで他の値を元に挙動を変更したい](https://qiita.com/Inp/items/fcfacde27410f8618676)
+- [next.jsアプリをfly.ioにリリースしたので作業をまとめておく](https://qiita.com/Inp/items/b9696d844b1b6bb9e49a)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
