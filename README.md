@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [レジュメ作るのが面倒すぎてレジュメビルダーを、爆速で作った話。](https://qiita.com/Inp/items/56b7115f1267cc194ebf)
 - [I hate making resumes so much that I made a resume builder, and it was a blast.](https://dev.to/keiwitha/i-hate-making-resumes-so-much-that-i-made-a-resume-builder-and-it-was-a-blast-2hc8)
 - [My own mistakes that I should have done at that time](https://dev.to/keiwitha/my-own-mistakes-that-i-should-have-done-at-that-time-55oi)
 - [How to improve your Database performance](https://dev.to/keiwitha/how-to-improve-your-database-performance-a9m)
 - [良い感じにwindowsでfigが使いたかっただけ](https://qiita.com/Inp/items/2a1bbe3b4887696170e2)
+- [yupで他の値を元に挙動を変更したい](https://qiita.com/Inp/items/fcfacde27410f8618676)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
