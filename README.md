@@ -15,11 +15,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [レビューがだるいので、レビューコメントをChatGPTにレビューしてもらう拡張を作った](https://qiita.com/Inp/items/4188b6aad34655279a63)
-- [mintにdisplaylinkをインストール時の備忘録](https://qiita.com/Inp/items/405dd72050e24f2355d1)
-- [supabaseでtwitter authする［備忘録］](https://qiita.com/Inp/items/3e3d1d895c44a5bdf406)
-- [firebaseエミュレーターにIOSの実機から接続する](https://qiita.com/Inp/items/7d2f913458fa610fe102)
 - [I hate making resumes so much that I made a resume builder, and it was a blast.](https://dev.to/keiwitha/i-hate-making-resumes-so-much-that-i-made-a-resume-builder-and-it-was-a-blast-2hc8)
+- [My own mistakes that I should have done at that time](https://dev.to/keiwitha/my-own-mistakes-that-i-should-have-done-at-that-time-55oi)
+- [How to improve your Database performance](https://dev.to/keiwitha/how-to-improve-your-database-performance-a9m)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
